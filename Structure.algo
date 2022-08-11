@@ -1,0 +1,12 @@
+ALGORITHM 
+PROCEDURE dot_product(V1,V2,ps);
+VAR
+   V1,V2:INTEGER;
+   IR:INTEGER;
+   ps:INTEGER;
+
+BEGIN
+
+   
+
+END
